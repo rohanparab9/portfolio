@@ -1,5 +1,5 @@
 html { 
-	background-image: url("https://github.com/rohanparab9/portfolio/background skyline.jpg") no-repeat center center fixed; 
+	background: url("img/background skyline.jpg") no-repeat center center fixed; 
 	background-size: cover;
 }
 body{
